@@ -16,6 +16,6 @@ echo "##### Install jq #####"
 sudo yum -y install jq
 
 echo "##### Install PyYAML #####"
-sudo pip-3.7 install PyYAML
+sudo pip-3.6 install PyYAML
 
 
